@@ -1,0 +1,12 @@
+---
+title: "Git"
+output: html_notebook
+---
+
+```{r}
+usethis::create_github_token()
+```
+```{r}
+gitcreds::gitcreds_set()
+```
+
