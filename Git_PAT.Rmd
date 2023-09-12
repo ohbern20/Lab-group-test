@@ -13,5 +13,9 @@ lets test it out, again
 
 ```{r}
 #adding a code chunk for fun
+gitcreds::gitcreds_set()
+gitcreds_get()
+
+credentials::set_github_pat()
 ```
 
