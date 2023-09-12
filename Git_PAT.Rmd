@@ -10,3 +10,8 @@ usethis::create_github_token()
 gitcreds::gitcreds_set()
 ```
 lets test it out, again 
+
+```{r}
+#adding a code chunk for fun
+```
+
